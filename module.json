@@ -3,7 +3,7 @@
    "title": "Masks: A New Generation (unofficial) на Русском",
    "description": "Маски: Новое Поколение от Magpie Games (неофициальная версия) на руском",
    "author": "Prof. Hidgens",
-   "version": "0.0.2",
+   "version": "0.0.2.1",
    "minimumCoreVersion": "0.8.8",
    "compatibleCoreVersion":"9",
    "packs": [
@@ -11,7 +11,7 @@
         "name": "moves-revised-rus",
         "label": "Ходы",
         "path": "packs/moves-revised-rus.db",
-        "entity": "Item",
+        "entity": "Предметы",
         "module": "masks-newgeneration-russian-unofficial"
       },
       {
@@ -87,6 +87,6 @@
   ],
   "system": "pbta",
   "url": "https://github.com/Milkhare/masks-newgeneration-russian-unofficial",
-  "manifest": "https://github.com/Milkhare/masks-newgeneration-russian-unofficial/releases/download/0.0.2/module.json",
-  "download": "https://github.com/Milkhare/masks-newgeneration-russian-unofficial/releases/download/0.0.2/masks-newgeneration-russian-unofficial.zip"
+  "manifest": "https://github.com/Milkhare/masks-newgeneration-russian-unofficial/releases/download/0.0.2.1/module.json",
+  "download": "https://github.com/Milkhare/masks-newgeneration-russian-unofficial/releases/download/0.0.2.1/masks-newgeneration-russian-unofficial.zip"
 }
