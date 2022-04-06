@@ -1,0 +1,92 @@
+{
+   "name": "masks-newgeneration-russian-unofficial",
+   "title": "Masks: A New Generation (unofficial) на Русском",
+   "description": "Маски: Новое Поколение от Magpie Games (неофициальная версия) на руском",
+   "author": "Prof. Hidgens",
+   "version": "0.1.0",
+   "minimumCoreVersion": "0.8.8",
+   "compatibleCoreVersion":"9",
+   "packs": [
+      {
+        "name": "moves-revised-rus",
+        "label": "Ходы",
+        "path": "packs/moves-revised-rus.db",
+        "entity": "Item",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "masks-gm-moves-rus",
+        "label": "GM Ходы",
+        "path": "packs/masks-gm-moves-rus.db",
+        "type": "JournalEntry",
+        "entity": "JournalEntry",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "moves-options-rus",
+        "label": "Ходы дополнительно",
+        "path": "packs/moves-options-rus.db",
+        "type": "JournalEntry",
+        "entity": "JournalEntry",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "rules-rus",
+        "label": "Правила",
+        "path": "packs/rules-rus.db",
+        "type": "JournalEntry",
+        "entity": "JournalEntry",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "conditions-masks-rus",
+        "label": "Состояния - Маски",
+        "path": "packs/conditions-masks-rus.db",
+        "type": "JournalEntry",
+        "entity": "JournalEntry",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "instructions-masks-rus",
+        "label": "Инструкции - Маски",
+        "path": "packs/instructions-masks-rus.db",
+        "type": "JournalEntry",
+        "entity": "JournalEntry",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "macros-masks-rus",
+        "label": "Макросы - Маски",
+        "path": "packs/macros-masks-rus.db",
+        "type": "Macro",
+        "entity": "Macro",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "playbooks-revised-rus",
+        "label": "Базовые буклеты",
+        "path": "packs/playbooks-revised-rus.db",
+        "type": "Item",
+        "entity": "Item",
+        "module": "masks-newgeneration-russian-unofficial"
+      },
+      {
+        "name": "hchc-playbooks-rus",
+        "label": "HCHC Буклеты",
+        "path": "packs/hchc-playbooks-rus.db",
+        "type": "Item",
+        "entity": "Item",
+        "module": "masks-newgeneration-russian-unofficial"
+      }
+    ],
+  "dependencies": [
+    {
+      "name": "compendium-folders",
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+    }
+  ],
+  "system": "pbta",
+  "url": "https://github.com/Milkhare/masks-newgeneration-russian-unofficial",
+  "manifest": "",
+  "download": ""
+}
