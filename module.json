@@ -16,7 +16,7 @@
       },
       {
         "name": "masks-gm-moves-rus",
-        "label": "GM Ходы",
+        "label": "Ходы Ведущего",
         "path": "packs/masks-gm-moves-rus.db",
         "type": "JournalEntry",
         "entity": "JournalEntry",
